@@ -26,8 +26,9 @@ Ce este LaTeX?
 
 Atît setul de comenzi TeX cît și cele LaTeX pot fi extinse prin așa numitele pachete. Cea mai mare bază de date de pachete libere pentru LaTeX se asflă pe [The Comprehensive TeX Archive Network](http://ctan.org/).
 
-Program
--------
+Programul (agenda) atelierului
+------------------------------
+
 1. Un exemplu de document latex minmal.
 2. Un exemplu de desen realizat cu PGF+TikZ.
 3. Noțiuni și comenzi de bază.
