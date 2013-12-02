@@ -18,3 +18,5 @@ Un desen TikZ se programează înăuntrul cadrului `tikzpicture`:
     \begin{tikzpicture}
     ...
     \end{tikzpicture}    
+    
+Iar fiecare comandă TikZ trebuie să aibă la sfîrșit caracterul **;**.
