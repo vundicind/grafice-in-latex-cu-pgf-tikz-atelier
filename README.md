@@ -15,7 +15,12 @@ Pe cînd comenzile TikZ au o sintaxă diferită - mai compactă, respectiv mai c
 Însă din punct de vedere tehnic comenzile TikZ nu sînt altceva decît scurtături pentru comenzile PGF.
 
 Cu ajutorul PGF+TikZ se pot realiza imagini în formatele PDF, PostScript, DVI și SVG.
-Mai mult, acest pachet este compatibil cu toate distribuțiile LaTeX pentru sisteme de operare GNU/Linux, Unix, MS Windows și OSX.
+Mai mult, acest pachet este compatibil cu toate distribuțiile LaTeX pentru sisteme de operare GNU/Linux, Unix, MS Windows și OSX [1].
+
+Ce este LaTeX?
+--------------
+
+
 
 
 Program
@@ -42,3 +47,8 @@ Adrese utile
 * LaTeX prin exemple (http://www.math.md/files/download/epublications/latex_prin_exemple.pdf)
 
 * Limbajul LaTeX: lista principalelor comenzi (http://www.mateforum.ro/articole/comenzi_latex.pdf)
+ 
+Referințe bibliogarfice
+-----------------------
+
+[1] Tantau T. **The Tik Z and PGF Packages**. Manual for Version 2.10. Institut für Theoretische Informatik. Universität zu Lübeck, Germany: 2010. Disponibil pe Internet: ftp://ftp.gust.org.pl/TeX/graphics/pgf/base/doc/generic/pgf/pgfmanual.pdf. Consultat la 26.10.2012.
