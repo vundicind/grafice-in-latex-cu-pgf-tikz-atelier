@@ -1,7 +1,22 @@
 Grafice în LaTeX cu PGF+TikZ
 ============================
 
-Bine ați venit la atelier! 
+Bine ați venit la atelier!
+
+Ce sînt PGF și TikZ?
+--------------------
+**PGF** este un pachet de grafică vectorială pentru **LaTeX**.
+Denumirea este o abreviere pentru **P**ortable **G**raphic **F**ormat (Format Grafic Portabil).
+PGF oferă două seturi de comenzi pentru producerea imaginilor, numite **PGF** și **TikZ**.
+Din acest motiv în literatură, deseori, pachetul PGF este referit prin tandemul de nume **PGF/TikZ** sau **PGF+TikZ**.
+
+Comenzile PGF sînt comenzi obișnuite LaTeX.
+Pe cînd comenzile TikZ au o sintaxă diferită - mai compactă, respectiv mai comodă pentru utilizatori.
+Însă din punct de vedere tehnic comenzile TikZ nu sînt altceva decît scurtături pentru comenzile PGF.
+
+Cu ajutorul PGF+TikZ se pot realiza imagini în formatele PDF, PostScript, DVI și SVG.
+Mai mult, acest pachet este compatibil cu toate distribuțiile LaTeX pentru sisteme de operare GNU/Linux, Unix, MS Windows și OSX.
+
 
 Program
 -------
