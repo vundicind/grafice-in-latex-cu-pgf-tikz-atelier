@@ -29,8 +29,8 @@ Atît setul de comenzi TeX cît și cele LaTeX pot fi extinse prin așa numitele
 Programul (agenda) atelierului
 ------------------------------
 
-1. Vom începe cu un [exemplu de document latex minmal](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/document-latex-minimal).
-2. Un exemplu de desen realizat cu PGF+TikZ.
+1. Vom începe cu un [exemplu de document latex minimal](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/document-latex-minimal).
+2. Apoi vom examina un [desen simplu realizat cu TikZ](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/desen-simplu-tikz).
 3. Noțiuni și comenzi de bază.
 4. Drepte și unghiuri.
 5. Triungiuri și linii importante.
