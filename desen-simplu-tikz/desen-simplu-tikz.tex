@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage[utf8x]{inputenc}
+\usepackage{tikz}
+
+\begin{document}
+\pagestyle{empty}
+
+% Pătratul negru (Kazimir Malevici)
+\centering
+\begin{tikzpicture}[scale=4]
+  \draw[fill=black] (0,0) -- (1,0) -- (1,1) -- (0,1) -- cycle;
+\end{tikzpicture}
+
+\newpage
+
+% Pătratul roșu
+\centering
+\begin{tikzpicture}[scale=4]
+  \draw[fill=red,color=red] (0,0) -- (1,0) -- (1,1) -- (0,1) -- cycle;
+\end{tikzpicture}
+
+
+\end{document}
