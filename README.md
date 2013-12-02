@@ -51,6 +51,11 @@ Adrese utile
 * LaTeX prin exemple (http://www.math.md/files/download/epublications/latex_prin_exemple.pdf)
 
 * Limbajul LaTeX: lista principalelor comenzi (http://www.mateforum.ro/articole/comenzi_latex.pdf)
+
+Editoare LaTeX
+--------------
+
+* [Texmaker](http://www.xm1math.net/texmaker/), disponibul sub licența [GPL](https://www.gnu.org/licenses/gpl.html) pentru Linux, Windows, MacOS și OS/2.
  
 Referințe bibliogarfice
 -----------------------
