@@ -56,6 +56,12 @@ Editoare LaTeX
 --------------
 
 * [Texmaker](http://www.xm1math.net/texmaker/), disponibul sub licența [GPL](https://www.gnu.org/licenses/gpl.html) pentru Linux, Windows, MacOS și OS/2.
+
+Editoare LaTeX online
+---------------------
+
+* [ShareLaTeX](https://www.sharelatex.com/).
+* [writeLaTeX](https://www.writelatex.com/).
  
 Referințe bibliogarfice
 -----------------------
