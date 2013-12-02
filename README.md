@@ -20,8 +20,11 @@ Mai mult, acest pachet este compatibil cu toate distribuțiile LaTeX pentru sist
 Ce este LaTeX?
 --------------
 
+**LaTeX** este un sistem de tehnoredactare bazat pe **TeX**. Procesul de tehnoredactare a unui document în LaTeX constă de fapt în programarea aspectului documentului cu ajutorul macroinstrucțiunilor (comenzilor) oferite de LaTeX.
 
+**TeX**, la rîndul său, este la fel un sistem de tehnoredactare, doar că limbajul (setul de comenzi) pus la dispoziție pentru tehnoredactare este de nivel mai scăzut decît cel oferit de LaTeX.
 
+Atît setul de comenzi TeX cît și cele LaTeX pot fi extinse prin așa numitele pachete. Cea mai mare bază de date de pachete libere pentru LaTeX se asflă pe [The Comprehensive TeX Archive Network](http://ctan.org/).
 
 Program
 -------
