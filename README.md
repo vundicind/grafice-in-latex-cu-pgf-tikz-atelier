@@ -29,7 +29,7 @@ Atît setul de comenzi TeX cît și cele LaTeX pot fi extinse prin așa numitele
 Programul (agenda) atelierului
 ------------------------------
 
-1. Un exemplu de document latex minmal.
+1. Vom începe cu un [exemplu de document latex minmal](tree/master/document-latex-minimal).
 2. Un exemplu de desen realizat cu PGF+TikZ.
 3. Noțiuni și comenzi de bază.
 4. Drepte și unghiuri.
