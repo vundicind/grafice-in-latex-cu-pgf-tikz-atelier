@@ -6,7 +6,7 @@ Instrucțiuni
 
 1. Descărcați fișierul `desen-simplu-tikz.tex` (sau copiati conținutul acestuia într-un fișier) și deschideți-l într-un editor LaTeX (de exemplu, [Texmaker](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier#editoare-latex)).
 
-2. Compilați fișierul local cu `pdflatex`. În rezultat trebuie să obțineți un fișier PDF asemănător cu `desen-simplu-tikz.tex.pdf`.
+2. Compilați fișierul local cu `pdflatex`. În rezultat trebuie să obțineți un fișier PDF asemănător cu `desen-simplu-tikz.pdf`.
 
 Explicații
 ----------
