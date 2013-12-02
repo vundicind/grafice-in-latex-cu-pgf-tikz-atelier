@@ -34,8 +34,7 @@ Programul (agenda) atelierului
 3. Pentru a purcede mai departe cu celelate lucrări trebuie să facem cunoștință cu [noțiunile și comenzile de bază ale TikZ](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/no%C8%9Biuni-%C8%99i-comenzi-de-baz%C4%83-tikz).
 4. Să vedem acum cum putem [determina și eticheta punctele de intersecție a două drepte](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/puncte-de-intersec%C8%9Bie-%C8%99i-noduri).
 5. Iarși determinarea punctelor folosind [biblioteca calc](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/biblioteca-tikz-calc).
-6. Grafice de funcții.
-7. Evidențierea punctelor pe grafice.
+6. Finalizăm cu [grafice de funcții](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/grafice-de-func%C8%9Bii).
 
 Adrese utile
 ------------
