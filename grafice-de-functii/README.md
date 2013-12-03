@@ -15,36 +15,36 @@ Trasarea graficelor de funcții în TikZ poate fi realizată folosind operația 
 
 Acestă operație poate trasa grafice de funcții pornind de la 
 
-1. un set de puncte;
+1. **un set de puncte**;
 
-2. fișier cu coordonatele punctelor în formă tabelară;
+2. **fișier cu coordonatele punctelor în formă tabelară**;
 
-3. formulă PGF (expresie matematică pentru motorul matematic din PGF);
+3. **formulă PGF** (expresie matematică pentru motorul matematic din PGF);
 
-4. formulă [Gnuplot](http://gnuplot.info/).
+4. **formulă [Gnuplot](http://gnuplot.info/)**.
 
 Pentru fiecare dintre cazurile de mai sus, formatul de „apelare” a operației `plot` este diferit. 
 În cazul cînd vrem să trasăm un grafic avînd: 
 
-1.  un set de puncte, formatul operației este:
+1.  **un set de puncte**; formatul folosire a operației este:
 
     `plot[<opțiuni>] coordinates {(<punct 1>) (<punct 2>) ... (<punct n>)}`
 
-2. un set de puncte într-un fișier, formatul operației este:
+2. **un set de puncte într-un fișier**; formatul folosire a operației este:
 
     `plot[<opțiuni>] file {<cale fișier>}`
 
-3. o formula, formatul operației este:
+3. **o formulă PGF**; formatul folosire a operației este:
 
     `plot[<opțiuni>] (<formula pentru x>,<formula pentru y>)`
 
-4. o formulă Gnuplot, formatul operației este:
+4. **o formulă Gnuplot**; formatul folosire a operației este:
 
     `plot[<opțiuni`>] function {<formulă Gnuplot>}`
 
 ### Motorul matematic PGF
 
-Motorul matematic al PGF-ului recunoaște următoarele operații[1, p. 527] și funcții[1, p.529].
+Motorul matematic al PGF-ului recunoaște următoarele **operații**[1, p. 527] și **funcții**[1, p.529].
 
 #### Operații
 
