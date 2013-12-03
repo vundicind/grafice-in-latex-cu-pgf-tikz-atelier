@@ -70,7 +70,7 @@ Editoare LaTeX online
 * [ShareLaTeX](https://www.sharelatex.com/).
 * [writeLaTeX](https://www.writelatex.com/).
  
-Referințe bibliogarfice
+Referințe bibliografice
 -----------------------
 
 [1] Tantau T. **The Tik Z and PGF Packages**. Manual for Version 2.10. Institut für Theoretische Informatik. Universität zu Lübeck, Germany: 2010. Disponibil pe Internet: ftp://ftp.gust.org.pl/TeX/graphics/pgf/base/doc/generic/pgf/pgfmanual.pdf. Consultat la 26.10.2012.
