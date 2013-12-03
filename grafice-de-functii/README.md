@@ -26,19 +26,19 @@ Acestă operație poate trasa grafice de funcții pornind de la
 Pentru fiecare dintre cazurile de mai sus, formatul de „apelare” a operației `plot` este diferit. 
 În cazul cînd vrem să trasăm un grafic avînd: 
 
-1.  **un set de puncte**; formatul folosire a operației este:
+1.  **un set de puncte**; formatul de folosire a operației este:
 
     `plot[<opțiuni>] coordinates {(<punct 1>) (<punct 2>) ... (<punct n>)}`
 
-2. **un set de puncte într-un fișier**; formatul folosire a operației este:
+2. **un set de puncte într-un fișier**; formatul de folosire a operației este:
 
     `plot[<opțiuni>] file {<cale fișier>}`
 
-3. **o formulă PGF**; formatul folosire a operației este:
+3. **o formulă PGF**; formatul de folosire a operației este:
 
     `plot[<opțiuni>] (<formula pentru x>,<formula pentru y>)`
 
-4. **o formulă Gnuplot**; formatul folosire a operației este:
+4. **o formulă Gnuplot**; formatul de folosire a operației este:
 
     `plot[<opțiuni>] function {<formulă Gnuplot>}`
 
