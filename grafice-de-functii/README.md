@@ -40,7 +40,7 @@ Pentru fiecare dintre cazurile de mai sus, formatul de „apelare” a operație
 
 4. **o formulă Gnuplot**; formatul folosire a operației este:
 
-    `plot[<opțiuni`>] function {<formulă Gnuplot>}`
+    `plot[<opțiuni>] function {<formulă Gnuplot>}`
 
 ### Motorul matematic PGF
 
