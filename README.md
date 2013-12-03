@@ -24,7 +24,7 @@ Ce este LaTeX?
 
 **TeX**, la rîndul său, este la fel un sistem de tehnoredactare, doar că limbajul (setul de comenzi) pus la dispoziție pentru tehnoredactare este de nivel mai scăzut decît cel oferit de LaTeX.
 
-Atît setul de comenzi TeX cît și cele LaTeX pot fi extinse prin așa numitele pachete. Cea mai mare bază de date de pachete libere pentru LaTeX se asflă pe [The Comprehensive TeX Archive Network](http://ctan.org/).
+Atît setul de comenzi TeX cît și comenzile LaTeX pot fi extinse prin așa numitele pachete. Cea mai mare bază de date de pachete libere pentru LaTeX se asflă pe [The Comprehensive TeX Archive Network](http://ctan.org/).
 
 Programul (agenda) atelierului
 ------------------------------
