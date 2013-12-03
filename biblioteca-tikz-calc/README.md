@@ -12,10 +12,13 @@ Explicații
 ----------
 
 Facilitățile standard TikZ pot fi extinse cu ajutorul bibliotecilor TikZ și a altor pachete bazate pe PGF+TikZ.
-Bibliotecile TikZ se includ în documentul LaTeX cu ajutorul comenzii `\usetikzlibrary`. 
+
+Bibliotecile TikZ se includ în documentul LaTeX cu ajutorul comenzii `\usetikzlibrary{<nume bibliotecă>}`. 
 Evident, nu putem folosi `\usetikzlibrary` fără a fi apelat preventiv `\usepackage{tikz}`.
+
 Specificul bibliotecilor `TikZ` este că pot extinde lista parametrilor și valorile acestora pentru comenzile TikZ existente.
 
 O bibliotecă utilă în construcția de figuri geometrice este biblioteca `calc`.
 Această bibliotecă oferă suport pentru efectuarea operațiilor cu coordonatele punctelor.
-Se include cu `usetikzlibrary{calc}`.
+
+Se include cu `\usetikzlibrary{calc}`.
