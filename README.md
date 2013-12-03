@@ -36,20 +36,28 @@ Programul (agenda) atelierului
 5. Iarși determinarea punctelor folosind [biblioteca calc](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/biblioteca-tikz-calc).
 6. Finalizăm cu [grafice de funcții](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier/tree/master/grafice-de-functii).
 
-Adrese utile
-------------
+Adrese recomandate pentru cei care doresc să studieze mai departe PGF+TikZ sau chiar LaTeX
+------------------------------------------------------------------------------------
 
-* Diverse exemple de desene realizate cu PGF+TikZ (http://www.texample.net/tikz/examples/)
+* Diverse [exemple de desene realizate cu PGF+TikZ](http://www.texample.net/tikz/examples/) pe situl http://www.texample.net/.
+ 
+* [Articol introductiv privind TikZ](http://cremeronline.com/LaTeX/minimaltikz.pdf).
+ 
+* [Breviar de comenzi TikZ](http://wwwp.cord.edu/faculty/ahendric/tex/TikZcheatsheet.pdf).
+ 
+* [Pachete pentru reprezentarea grafurilor și figurilor geometrice](http://altermundus.fr/pages/tkz.html) bazate pe TikZ. 
 
-* Diverse exemple de grafice realizate cu PGFPlots (http://pgfplots.sourceforge.net/gallery.html)
+* [Diapozitive pentru cursul de teoria grafurilor în care reprezentările grafurile sînt realizate cu pachetul tkz-graph ](https://github.com/vundicind/grafuri-note-de-curs).
 
-* Pachete pentru grafuri și geometrie bazate pe TikZ (http://altermundus.fr/pages/tkz.html)
+* Diverse [exemple de grafice de funcții realizate cu pachetul PGFPlots](http://pgfplots.sourceforge.net/gallery.html).
+ 
+* [Articol introductiv privind trasarea graficelor de funcții cu pachetul PGFPlots](http://www.math.ufl.edu/~mgluck/GraphingInLatex.pdf).
 
-* Introducere în limbajul LaTeX (http://www.mateforum.ro/articole/latex.pdf)
+* [O trecere în revistă a principalelor instrumente LaTeX pentru realizarea de reprezentări  grafice](http://www.latex-project.org/guides/lgc2-excerpts.pdf).
 
-* LaTeX prin exemple (http://www.math.md/files/download/epublications/latex_prin_exemple.pdf)
-
-* Limbajul LaTeX: lista principalelor comenzi (http://www.mateforum.ro/articole/comenzi_latex.pdf)
+* Ghidul [LaTeX prin exemple](http://www.math.md/files/download/epublications/latex_prin_exemple.pdf).
+ 
+* [Resurse legate de LaTeX selectate de mine](http://vundicind.blogspot.com/2013/02/latex-adrese-cu-continut-interesant.html).
 
 Editoare LaTeX
 --------------
