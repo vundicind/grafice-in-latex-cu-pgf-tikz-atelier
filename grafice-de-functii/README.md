@@ -4,7 +4,7 @@ Grafice de funcții
 Instrucțiuni
 ------------
 
-1. Descărcați fișierul `grafice-de-functii.tex` (sau copiati conținutul acestuia într-un fișier) și deschideți-l într-un editor LaTeX (de exemplu, [Texmaker](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier#editoare-latex)).
+1. Descărcați fișierul `grafice-de-functii.tex` (sau copiati conținutul acestuia într-un fișier local) și deschideți-l într-un editor LaTeX (de exemplu, [Texmaker](https://github.com/vundicind/grafice-in-latex-cu-pgf-tikz-atelier#editoare-latex)).
 
 2. Compilați fișierul local cu `pdflatex`. În rezultat trebuie să obțineți un fișier PDF asemănător cu `grafice-de-functii.pdf`.
 
@@ -21,25 +21,26 @@ Acestă operație poate trasa grafice de funcții pornind de la
 
 3. formulă PGF (expresie matematică pentru motorul matematic din PGF);
 
-4. formula [Gnuplot](http://gnuplot.info/).
+4. formulă [Gnuplot](http://gnuplot.info/).
 
-Pentru fiecare dintre cazurile de mai sus, formatul de „apelare” a operației `plot` este diferit:
+Pentru fiecare dintre cazurile de mai sus, formatul de „apelare” a operației `plot` este diferit. 
+În cazul cînd vrem să trasăm un grafic avînd: 
 
-1. În cazul cînd vrem să trasăm un grafic avînd un set de puncte formatul operației este:
+1.  un set de puncte, formatul operației este:
 
-    plot[<opțiuni>] coordinates {(<punct 1>) (<punct 2>) ... (<punct n>)}
+    plot[\<opțiuni\>] coordinates {(\<punct 1\>) (\<punct 2\>) ... (\<punct n\>)}
 
-2. În cazul cînd vrem să trasăm un grafic avînd un set de puncte într-un fișier - :
+2. un set de puncte într-un fișier, formatul operației este:
 
-    plot[<opțiuni>] file {<cale fișier>}
+    plot[\<opțiuni\>] file {\<cale fișier\>}
 
-3. În cazul cînd vrem să trasăm un grafic avînd o formula - :
+3. o formula, formatul operației este:
 
-    plot[<opțiuni>] (<formual pentru x>,<formula pentru y>)
+    plot[\<opțiuni\>] (\<formula pentru x\>,\<formula pentru y\>)
 
-4. În cazul cînd vrem să trasăm un grafic avînd o formulă Gnuplot - :
+4. o formulă Gnuplot, formatul operației este:
 
-    plot[<opțiuni>] function {<formulă Gnuplot>}
+    plot[\<opțiuni\>] function {\<formulă Gnuplot\>}
 
 ### Motorul matematic PGF
 
@@ -61,17 +62,17 @@ Motorul matematic al PGF-ului recunoaște următoarele operații[1, p. 527] și 
 <table>
 <tr>
 <td>
-abs
-acos
-add
-and
-array
-asin
-atan
-atan2
-bin
-ceil
-cos
+* abs
+* acos
+* add
+* and
+* array
+* asin
+* atan
+* atan2
+* bin
+* ceil
+* cos
 </td>
 <td>
 cosec
